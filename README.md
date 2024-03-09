@@ -1,3 +1,8 @@
+
+
+![Image1](https://github.com/Michael-Shollaj/PrometheusCharacterController2D/assets/55102646/71de626c-5f0e-4587-8c89-b3e79619694d)
+
+
 Prometheus Character Controller
 Welcome to the Prometheus Character Controller repository! This project showcases a highly versatile and dynamic character controller for Unity, utilizing the new Unity Input System and there is another character using old input system. It's designed to enhance 2D platformers or any game that requires intricate player movement, including sprinting, crouching, wall jumping, dashing, and even underwater swimming with oxygen management.
 
